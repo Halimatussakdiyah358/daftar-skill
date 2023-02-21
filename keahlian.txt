@@ -9,4 +9,11 @@
 -tehnologi layanan jaringan
 -Administrasi sistem jaringan
 -Wide Area Network
-dan lain lain
+
+++ skill yang diperoleh di rucom ++
+-Mengetik 10 jari
+-FreecodeChamp.org Renponsive Web Design(html, css, hand. javascript)
+-boottable linux
+-vsual Studio code
+-sololearn (introduction to html, jQuery, introduction to javaScript, coding for marketers, introduction to CSS, Rensponsive web Design, Web DEvelopent fundamentals, php)
+-buat akun linKedin dan menghubungkan sertifikasi sololearn
